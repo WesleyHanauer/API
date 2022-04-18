@@ -1,0 +1,42 @@
+* {
+    margin: auto;
+    padding: 0;
+}
+
+header p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: white;
+    padding-top: 5px;
+}
+
+#tabela {
+    color: #e7e7e7;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px black;
+    line-height: 1.8;
+}
+
+body {
+    background-image: url('https://wallpapercave.com/wp/wp1877211.jpg');
+    background-repeat: repeat-y;
+    background-size: 100%;
+    text-align: center;
+}
+
+body img {
+    position: absolute;
+}
+
+#botao {
+    color: black;
+    background: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    display: inline-block;
+    padding: 10px 10px;
+    margin: 4px 2px;
+    border-radius: 15px;
+}
